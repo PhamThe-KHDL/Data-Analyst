@@ -1,3 +1,3 @@
 # Data Analyst
 
-Kiến thưc cơ bản và cần thiết cho ngành Data Analyst (tự học)
+Kiến thức, khái niệm cơ bản và cần thiết cho ngành Data Analyst (tự học)
